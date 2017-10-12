@@ -1,0 +1,10 @@
+C:\Users\Filip\Desktop\Deskt\Studies\Programingg\class 3semester\EXAMv001\EXAMv001\bin\Debug\EXAMv001.exe.config
+C:\Users\Filip\Desktop\Deskt\Studies\Programingg\class 3semester\EXAMv001\EXAMv001\bin\Debug\EXAMv001.exe
+C:\Users\Filip\Desktop\Deskt\Studies\Programingg\class 3semester\EXAMv001\EXAMv001\bin\Debug\EXAMv001.pdb
+C:\Users\Filip\Desktop\Deskt\Studies\Programingg\class 3semester\EXAMv001\EXAMv001\obj\Debug\EXAMv001.csprojResolveAssemblyReference.cache
+C:\Users\Filip\Desktop\Deskt\Studies\Programingg\class 3semester\EXAMv001\EXAMv001\obj\Debug\EXAMv001.Form1.resources
+C:\Users\Filip\Desktop\Deskt\Studies\Programingg\class 3semester\EXAMv001\EXAMv001\obj\Debug\EXAMv001.Properties.Resources.resources
+C:\Users\Filip\Desktop\Deskt\Studies\Programingg\class 3semester\EXAMv001\EXAMv001\obj\Debug\EXAMv001.csproj.GenerateResource.Cache
+C:\Users\Filip\Desktop\Deskt\Studies\Programingg\class 3semester\EXAMv001\EXAMv001\obj\Debug\EXAMv001.exe
+C:\Users\Filip\Desktop\Deskt\Studies\Programingg\class 3semester\EXAMv001\EXAMv001\obj\Debug\EXAMv001.pdb
+C:\Users\Filip\Desktop\Deskt\Studies\Programingg\class 3semester\EXAMv001\EXAMv001\bin\Debug\MySql.Data.dll
